@@ -1,3 +1,3 @@
 # Udev
 
-udevadm info -a -n /dev/sdc1
+udevadm info -n /dev/sdc1
